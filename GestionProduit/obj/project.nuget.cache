@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tUQLrPNq0QI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mouaad\\source\\repos\\GestionProduit\\GestionProduit\\GestionProduit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mouaad\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\mouaad\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\mouaad\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
